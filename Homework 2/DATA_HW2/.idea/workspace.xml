@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d9a97ce-3d80-4016-9072-1d50fec1236b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ozanselte/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1305">
+              <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#printIterator#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozanselte/ExperimentList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1247">
+              <caret line="151" column="43" selection-start-line="151" selection-start-column="43" selection-end-line="151" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#ExperimentList#2;class#ExperimentList#0" />
+                <element signature="method#addExp#0;class#ExperimentList#0" />
+                <element signature="method#getExp#0;class#ExperimentList#0" />
+                <element signature="method#setExp#0;class#ExperimentList#0" />
+                <element signature="method#removeExp#0;class#ExperimentList#0" />
+                <element signature="method#listExp#0;class#ExperimentList#0" />
+                <element signature="method#removeDay#0;class#ExperimentList#0" />
+                <element signature="method#orderDay#0;class#ExperimentList#0" />
+                <element signature="method#getRawExp#0;class#ExperimentList#0" />
+                <element signature="method#getDaysFirstExp#0;class#ExperimentList#0" />
+                <element signature="method#getDaysLastExp#0;class#ExperimentList#0" />
+                <element signature="e#9000#9001#0" expanded="true" />
+                <element signature="e#9051#9052#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozanselte/Experiment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3061">
+              <caret line="218" column="9" selection-start-line="218" selection-start-column="9" selection-end-line="218" selection-end-column="9" />
+              <folding>
+                <element signature="method#Experiment#0;class#Experiment#0" />
+                <element signature="method#Experiment#1;class#Experiment#0" />
+                <element signature="method#Experiment#2;class#Experiment#0" />
+                <element signature="method#Experiment#3;class#Experiment#0" />
+                <element signature="e#2672#2673#0" expanded="true" />
+                <element signature="e#2706#2707#0" expanded="true" />
+                <element signature="method#setDay#0;class#Experiment#0" />
+                <element signature="method#setAccuracy#0;class#Experiment#0" />
+                <element signature="method#setValues#0;class#Experiment#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ozanselte/ExperimentIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Time</find>
+      <find>getDaysFirstExp</find>
+      <find>B.</find>
+      <find>&quot;02:55:56&quot;</find>
+      <find>referance</find>
+      <find>order</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>String</replace>
+      <replace>List.</replace>
+      <replace>dateFormat.format(new Date())</replace>
+      <replace>reference</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Experiment.java" />
+        <option value="$PROJECT_DIR$/src/com/ozanselte/Experiment.java" />
+        <option value="$PROJECT_DIR$/src/com/ozanselte/ExperimentIterator.java" />
+        <option value="$PROJECT_DIR$/src/com/ozanselte/ExperimentList.java" />
+        <option value="$PROJECT_DIR$/src/com/ozanselte/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="188" />
+    <option name="y" value="34" />
+    <option name="width" value="1336" />
+    <option name="height" value="686" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DATA_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DATA_HW2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DATA_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DATA_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DATA_HW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DATA_HW2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ozanselte" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="data_hw2" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551973604028" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ozanselte.Main" />
+      <module name="DATA_HW2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d9a97ce-3d80-4016-9072-1d50fec1236b" name="Default Changelist" comment="" />
+      <created>1551428319845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551428319845</updated>
+      <workItem from="1551428322028" duration="12709000" />
+      <workItem from="1551606816982" duration="355000" />
+      <workItem from="1551631401931" duration="2865000" />
+      <workItem from="1551784293649" duration="18539000" />
+      <workItem from="1551858705192" duration="86000" />
+      <workItem from="1551859673961" duration="5244000" />
+      <workItem from="1551874711063" duration="11090000" />
+      <workItem from="1551938976036" duration="48000" />
+      <workItem from="1551939714976" duration="11039000" />
+      <workItem from="1551976057906" duration="190000" />
+      <workItem from="1552032265530" duration="39000" />
+      <workItem from="1552157419474" duration="5434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67638000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49887893" visible="true" weight="0.16469322" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Structure" order="6" sideWeight="0.5011211" side_tool="true" weight="0.19967707" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3295964" />
+      <window_info anchor="bottom" id="Flutter Performance" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.7455157" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39910313" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3295964" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295964" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.2497309" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.2497309" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/lib/jvm/java-10-openjdk/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozanselte/ExperimentIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.ozanselte.Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.ozanselte.Main</OriginalElement>
+          <nodes>
+            <node x="15.465277777777828" y="568.0">com.ozanselte.ExperimentIterator</node>
+            <node x="0.0" y="0.0">com.ozanselte.Experiment</node>
+            <node x="167.4305555555556" y="815.0">com.ozanselte.ExperimentList</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.ozanselte.ExperimentIterator" target="com.ozanselte.Experiment">
+              <point x="-124.33333333333331" y="-98.5" />
+              <point x="77.63194444444451" y="548.0" />
+              <point x="58.583333333333314" y="548.0" />
+              <point x="-292.9166666666667" y="254.0" />
+            </edge>
+            <edge source="com.ozanselte.ExperimentList" target="com.ozanselte.Experiment">
+              <point x="-49.625" y="-284.5" />
+              <point x="316.3055555555556" y="790.0" />
+              <point x="398.9652777777778" y="790.0" />
+              <point x="398.9652777777778" y="528.0" />
+              <point x="410.08333333333337" y="528.0" />
+              <point x="58.58333333333337" y="254.0" />
+            </edge>
+            <edge source="com.ozanselte.ExperimentList" target="com.ozanselte.ExperimentIterator">
+              <point x="-148.875" y="-284.5" />
+              <point x="217.0555555555556" y="790.0" />
+              <point x="201.96527777777783" y="790.0" />
+              <point x="0.0" y="98.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1999999999999997" x="-206.52741702741736" y="475.9761904761904" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA_HW2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozanselte/ExperimentList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="151" column="43" selection-start-line="151" selection-start-column="43" selection-end-line="151" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ExperimentList#2;class#ExperimentList#0" />
+            <element signature="method#addExp#0;class#ExperimentList#0" />
+            <element signature="method#getExp#0;class#ExperimentList#0" />
+            <element signature="method#setExp#0;class#ExperimentList#0" />
+            <element signature="method#removeExp#0;class#ExperimentList#0" />
+            <element signature="method#listExp#0;class#ExperimentList#0" />
+            <element signature="method#removeDay#0;class#ExperimentList#0" />
+            <element signature="method#orderDay#0;class#ExperimentList#0" />
+            <element signature="method#getRawExp#0;class#ExperimentList#0" />
+            <element signature="method#getDaysFirstExp#0;class#ExperimentList#0" />
+            <element signature="method#getDaysLastExp#0;class#ExperimentList#0" />
+            <element signature="e#9000#9001#0" expanded="true" />
+            <element signature="e#9051#9052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozanselte/Experiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3061">
+          <caret line="218" column="9" selection-start-line="218" selection-start-column="9" selection-end-line="218" selection-end-column="9" />
+          <folding>
+            <element signature="method#Experiment#0;class#Experiment#0" />
+            <element signature="method#Experiment#1;class#Experiment#0" />
+            <element signature="method#Experiment#2;class#Experiment#0" />
+            <element signature="method#Experiment#3;class#Experiment#0" />
+            <element signature="e#2672#2673#0" expanded="true" />
+            <element signature="e#2706#2707#0" expanded="true" />
+            <element signature="method#setDay#0;class#Experiment#0" />
+            <element signature="method#setAccuracy#0;class#Experiment#0" />
+            <element signature="method#setValues#0;class#Experiment#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ozanselte/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printIterator#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
